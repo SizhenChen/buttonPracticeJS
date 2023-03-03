@@ -1,0 +1,32 @@
+button{
+    margin: auto;
+    background-color: #7fb581;
+    border: none;
+    color: rgb(251, 251, 251);
+    padding: 10px;
+    text-align: end;
+    cursor: pointer;
+    box-shadow: rgb(0,0,0) 0px 0px 2px;
+}
+button:hover{
+    background-color: #2d5d33;
+}
+button:active{
+    background-color: #142b15;
+    box-shadow: rgb(0,0,0) 0px 0px 0px;
+}
+#aDiv{
+    text-align: center;
+    font-weight: 700;
+    width: 20%;
+    padding: 20px;
+    margin: auto;
+    margin-top: 90px;
+    color: rgb(41, 15, 64);
+    background-color: rgb(135, 197, 189);
+}
+#para{
+    margin: auto;
+    margin-top: 80px;
+    width: 50%;
+}
